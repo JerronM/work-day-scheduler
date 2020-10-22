@@ -4,6 +4,7 @@
 A simple calendar application that allows the user to save events for each hour of the day.
 
 # Acceptance Criteria
+<pre>
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -17,13 +18,13 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-
+</pre>
 
 # Links
 <h3>Github Repo</h3>
 https://github.com/JerronM/work-day-scheduler/
 <br>
-<br>
+
 <h3>Live Page</h3>
 https://jerronm.github.io/work-day-scheduler/.
 
